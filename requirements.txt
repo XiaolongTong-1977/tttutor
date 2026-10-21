@@ -1,0 +1,9 @@
+# tttutor runtime dependencies
+# ==============================
+# The program itself is pure Python 3.10+ standard library (curses, json,
+# asyncio, ...).  There are NO third-party runtime dependencies on Linux
+# or macOS.
+#
+# The single line below only applies on native Windows, where the stdlib
+# does not ship `curses`.  It is skipped automatically on Linux/macOS.
+windows-curses; platform_system == "Windows"

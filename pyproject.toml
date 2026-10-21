@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tttutor"
+version = "0.1.0"
+description = "A modern terminal typing tutor (TT-style functional clone, modern Python/curses, cross-platform)"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [{name = "tt-reanalysis"}]
+
+[project.scripts]
+tttutor = "tttutor.__main__:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["tttutor*"]
+exclude = ["tests*"]
+
+[tool.setuptools.package-data]
+tttutor = ["data/*"]

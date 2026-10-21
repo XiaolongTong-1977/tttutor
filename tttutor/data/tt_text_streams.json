@@ -1,0 +1,1962 @@
+{
+ "source": "TT.EXE DS:0x8632 / DS:0x8698",
+ "streams": [
+  {
+   "index": 0,
+   "offset": 0,
+   "tokens": [
+    [
+     "TOKEN",
+     25
+    ],
+    [
+     "TOKEN",
+     42
+    ]
+   ],
+   "steps": 3
+  },
+  {
+   "index": 1,
+   "offset": 4,
+   "tokens": [
+    [
+     "WORD",
+     17
+    ],
+    [
+     "TOKEN",
+     4
+    ],
+    [
+     "TOKEN",
+     2
+    ]
+   ],
+   "steps": 4
+  },
+  {
+   "index": 2,
+   "offset": 9,
+   "tokens": [
+    [
+     "TOKEN",
+     36
+    ],
+    [
+     "WORD",
+     16
+    ],
+    [
+     "TOKEN",
+     23
+    ],
+    [
+     "WORD",
+     37
+    ],
+    [
+     "TOKEN",
+     41
+    ],
+    [
+     "WORD",
+     18
+    ],
+    [
+     "WORD",
+     19
+    ],
+    [
+     "TOKEN",
+     23
+    ]
+   ],
+   "steps": 9
+  },
+  {
+   "index": 3,
+   "offset": 19,
+   "tokens": [
+    [
+     "TOKEN",
+     16
+    ],
+    [
+     "TOKEN",
+     14
+    ],
+    [
+     "TOKEN",
+     16
+    ],
+    [
+     "TOKEN",
+     43
+    ],
+    [
+     "WORD",
+     23
+    ],
+    [
+     "TOKEN",
+     13
+    ],
+    [
+     "WORD",
+     23
+    ],
+    [
+     "TOKEN",
+     13
+    ],
+    [
+     "WORD",
+     23
+    ],
+    [
+     "TOKEN",
+     13
+    ],
+    [
+     "TOKEN",
+     14
+    ],
+    [
+     "WORD",
+     23
+    ]
+   ],
+   "steps": 13
+  },
+  {
+   "index": 4,
+   "offset": 33,
+   "tokens": [
+    [
+     "TOKEN",
+     13
+    ],
+    [
+     "TOKEN",
+     14
+    ],
+    [
+     "WORD",
+     27
+    ],
+    [
+     "WORD",
+     32
+    ],
+    [
+     "TOKEN",
+     37
+    ],
+    [
+     "WORD",
+     17
+    ],
+    [
+     "TOKEN",
+     30
+    ],
+    [
+     "TOKEN",
+     1
+    ]
+   ],
+   "steps": 9
+  },
+  {
+   "index": 5,
+   "offset": 43,
+   "tokens": [
+    [
+     "TOKEN",
+     35
+    ],
+    [
+     "WORD",
+     13
+    ],
+    [
+     "TOKEN",
+     1
+    ]
+   ],
+   "steps": 4
+  },
+  {
+   "index": 6,
+   "offset": 48,
+   "tokens": [
+    [
+     "TOKEN",
+     32
+    ],
+    [
+     "TOKEN",
+     39
+    ],
+    [
+     "TOKEN",
+     1
+    ]
+   ],
+   "steps": 4
+  },
+  {
+   "index": 7,
+   "offset": 53,
+   "tokens": [
+    [
+     "MACRO",
+     0
+    ],
+    [
+     "TOKEN",
+     25
+    ],
+    [
+     "TOKEN",
+     42
+    ],
+    [
+     "TOKEN",
+     25
+    ],
+    [
+     "TOKEN",
+     1
+    ]
+   ],
+   "steps": 7
+  },
+  {
+   "index": 8,
+   "offset": 58,
+   "tokens": [
+    [
+     "MACRO",
+     0
+    ],
+    [
+     "TOKEN",
+     25
+    ],
+    [
+     "TOKEN",
+     42
+    ],
+    [
+     "TOKEN",
+     33
+    ],
+    [
+     "TOKEN",
+     1
+    ]
+   ],
+   "steps": 7
+  },
+  {
+   "index": 9,
+   "offset": 63,
+   "tokens": [
+    [
+     "TOKEN",
+     25
+    ],
+    [
+     "WORD",
+     37
+    ],
+    [
+     "WORD",
+     15
+    ],
+    [
+     "WORD",
+     16
+    ],
+    [
+     "TOKEN",
+     1
+    ]
+   ],
+   "steps": 6
+  },
+  {
+   "index": 10,
+   "offset": 70,
+   "tokens": [
+    [
+     "MACRO",
+     3
+    ],
+    [
+     "TOKEN",
+     16
+    ],
+    [
+     "TOKEN",
+     14
+    ],
+    [
+     "TOKEN",
+     16
+    ],
+    [
+     "TOKEN",
+     43
+    ],
+    [
+     "WORD",
+     23
+    ],
+    [
+     "TOKEN",
+     13
+    ],
+    [
+     "WORD",
+     23
+    ],
+    [
+     "TOKEN",
+     13
+    ],
+    [
+     "WORD",
+     23
+    ],
+    [
+     "TOKEN",
+     13
+    ],
+    [
+     "TOKEN",
+     14
+    ],
+    [
+     "WORD",
+     23
+    ],
+    [
+     "TOKEN",
+     1
+    ]
+   ],
+   "steps": 16
+  },
+  {
+   "index": 11,
+   "offset": 74,
+   "tokens": [
+    [
+     "MACRO",
+     3
+    ],
+    [
+     "TOKEN",
+     16
+    ],
+    [
+     "TOKEN",
+     14
+    ],
+    [
+     "TOKEN",
+     16
+    ],
+    [
+     "TOKEN",
+     43
+    ],
+    [
+     "WORD",
+     23
+    ],
+    [
+     "TOKEN",
+     13
+    ],
+    [
+     "WORD",
+     23
+    ],
+    [
+     "TOKEN",
+     13
+    ],
+    [
+     "WORD",
+     23
+    ],
+    [
+     "TOKEN",
+     13
+    ],
+    [
+     "TOKEN",
+     14
+    ],
+    [
+     "WORD",
+     23
+    ],
+    [
+     "WORD",
+     17
+    ],
+    [
+     "TOKEN",
+     30
+    ],
+    [
+     "TOKEN",
+     1
+    ]
+   ],
+   "steps": 18
+  },
+  {
+   "index": 12,
+   "offset": 80,
+   "tokens": [
+    [
+     "TOKEN",
+     27
+    ],
+    [
+     "TOKEN",
+     13
+    ],
+    [
+     "WORD",
+     28
+    ],
+    [
+     "TOKEN",
+     34
+    ],
+    [
+     "WORD",
+     31
+    ],
+    [
+     "TOKEN",
+     13
+    ],
+    [
+     "WORD",
+     27
+    ],
+    [
+     "WORD",
+     31
+    ],
+    [
+     "MACRO",
+     4
+    ],
+    [
+     "TOKEN",
+     13
+    ],
+    [
+     "TOKEN",
+     14
+    ],
+    [
+     "WORD",
+     27
+    ],
+    [
+     "WORD",
+     32
+    ],
+    [
+     "TOKEN",
+     37
+    ],
+    [
+     "WORD",
+     17
+    ],
+    [
+     "TOKEN",
+     30
+    ],
+    [
+     "TOKEN",
+     1
+    ]
+   ],
+   "steps": 19
+  },
+  {
+   "index": 13,
+   "offset": 91,
+   "tokens": [
+    [
+     "TOKEN",
+     28
+    ],
+    [
+     "TOKEN",
+     13
+    ],
+    [
+     "WORD",
+     28
+    ],
+    [
+     "TOKEN",
+     34
+    ],
+    [
+     "WORD",
+     30
+    ],
+    [
+     "TOKEN",
+     13
+    ],
+    [
+     "WORD",
+     27
+    ],
+    [
+     "WORD",
+     32
+    ],
+    [
+     "MACRO",
+     4
+    ],
+    [
+     "TOKEN",
+     13
+    ],
+    [
+     "TOKEN",
+     14
+    ],
+    [
+     "WORD",
+     27
+    ],
+    [
+     "WORD",
+     32
+    ],
+    [
+     "TOKEN",
+     37
+    ],
+    [
+     "WORD",
+     17
+    ],
+    [
+     "TOKEN",
+     30
+    ],
+    [
+     "TOKEN",
+     1
+    ]
+   ],
+   "steps": 19
+  },
+  {
+   "index": 14,
+   "offset": 102,
+   "tokens": [
+    [
+     "TOKEN",
+     32
+    ],
+    [
+     "WORD",
+     37
+    ],
+    [
+     "WORD",
+     16
+    ],
+    [
+     "TOKEN",
+     0
+    ],
+    [
+     "WORD",
+     20
+    ],
+    [
+     "TOKEN",
+     13
+    ],
+    [
+     "LIT",
+     "it"
+    ],
+    [
+     "WORD",
+     37
+    ],
+    [
+     "WORD",
+     15
+    ],
+    [
+     "WORD",
+     16
+    ],
+    [
+     "TOKEN",
+     1
+    ]
+   ],
+   "steps": 12
+  },
+  {
+   "index": 15,
+   "offset": 118,
+   "tokens": [
+    [
+     "TOKEN",
+     25
+    ],
+    [
+     "WORD",
+     37
+    ],
+    [
+     "WORD",
+     16
+    ],
+    [
+     "TOKEN",
+     0
+    ],
+    [
+     "WORD",
+     20
+    ],
+    [
+     "TOKEN",
+     13
+    ],
+    [
+     "TOKEN",
+     25
+    ],
+    [
+     "WORD",
+     37
+    ],
+    [
+     "WORD",
+     15
+    ],
+    [
+     "WORD",
+     16
+    ],
+    [
+     "TOKEN",
+     1
+    ]
+   ],
+   "steps": 12
+  },
+  {
+   "index": 16,
+   "offset": 131,
+   "tokens": [
+    [
+     "TOKEN",
+     25
+    ],
+    [
+     "TOKEN",
+     40
+    ],
+    [
+     "WORD",
+     18
+    ],
+    [
+     "WORD",
+     19
+    ],
+    [
+     "TOKEN",
+     23
+    ],
+    [
+     "TOKEN",
+     1
+    ]
+   ],
+   "steps": 7
+  },
+  {
+   "index": 17,
+   "offset": 139,
+   "tokens": [
+    [
+     "LIT",
+     "the"
+    ],
+    [
+     "TOKEN",
+     26
+    ],
+    [
+     "WORD",
+     24
+    ],
+    [
+     "WORD",
+     17
+    ],
+    [
+     "TOKEN",
+     30
+    ],
+    [
+     "TOKEN",
+     1
+    ]
+   ],
+   "steps": 7
+  },
+  {
+   "index": 18,
+   "offset": 151,
+   "tokens": [
+    [
+     "TOKEN",
+     19
+    ],
+    [
+     "TOKEN",
+     13
+    ],
+    [
+     "WORD",
+     29
+    ],
+    [
+     "TOKEN",
+     34
+    ],
+    [
+     "WORD",
+     30
+    ],
+    [
+     "TOKEN",
+     1
+    ]
+   ],
+   "steps": 7
+  },
+  {
+   "index": 19,
+   "offset": 159,
+   "tokens": [
+    [
+     "TOKEN",
+     18
+    ],
+    [
+     "TOKEN",
+     13
+    ],
+    [
+     "WORD",
+     29
+    ],
+    [
+     "TOKEN",
+     34
+    ],
+    [
+     "WORD",
+     31
+    ],
+    [
+     "TOKEN",
+     1
+    ]
+   ],
+   "steps": 7
+  },
+  {
+   "index": 20,
+   "offset": 167,
+   "tokens": [
+    [
+     "MACRO",
+     2
+    ],
+    [
+     "TOKEN",
+     36
+    ],
+    [
+     "WORD",
+     16
+    ],
+    [
+     "TOKEN",
+     23
+    ],
+    [
+     "WORD",
+     37
+    ],
+    [
+     "TOKEN",
+     41
+    ],
+    [
+     "WORD",
+     18
+    ],
+    [
+     "WORD",
+     19
+    ],
+    [
+     "TOKEN",
+     23
+    ],
+    [
+     "TOKEN",
+     1
+    ]
+   ],
+   "steps": 12
+  },
+  {
+   "index": 21,
+   "offset": 171,
+   "tokens": [
+    [
+     "TOKEN",
+     25
+    ],
+    [
+     "TOKEN",
+     3
+    ],
+    [
+     "TOKEN",
+     38
+    ],
+    [
+     "WORD",
+     17
+    ],
+    [
+     "TOKEN",
+     30
+    ],
+    [
+     "TOKEN",
+     3
+    ],
+    [
+     "TOKEN",
+     39
+    ],
+    [
+     "TOKEN",
+     1
+    ]
+   ],
+   "steps": 9
+  },
+  {
+   "index": 22,
+   "offset": 181,
+   "tokens": [
+    [
+     "TOKEN",
+     6
+    ]
+   ],
+   "steps": 2
+  },
+  {
+   "index": 23,
+   "offset": 184,
+   "tokens": [
+    [
+     "TOKEN",
+     18
+    ],
+    [
+     "TOKEN",
+     20
+    ],
+    [
+     "LIT",
+     "birthday"
+    ],
+    [
+     "WORD",
+     37
+    ],
+    [
+     "TOKEN",
+     7
+    ],
+    [
+     "TOKEN",
+     1
+    ]
+   ],
+   "steps": 7
+  },
+  {
+   "index": 24,
+   "offset": 201,
+   "tokens": [
+    [
+     "WORD",
+     39
+    ],
+    [
+     "TOKEN",
+     37
+    ],
+    [
+     "TOKEN",
+     30
+    ],
+    [
+     "WORD",
+     17
+    ],
+    [
+     "TOKEN",
+     7
+    ],
+    [
+     "TOKEN",
+     1
+    ]
+   ],
+   "steps": 7
+  },
+  {
+   "index": 25,
+   "offset": 209,
+   "tokens": [
+    [
+     "WORD",
+     44
+    ],
+    [
+     "WORD",
+     45
+    ],
+    [
+     "WORD",
+     38
+    ],
+    [
+     "WORD",
+     43
+    ]
+   ],
+   "steps": 5
+  },
+  {
+   "index": 26,
+   "offset": 215,
+   "tokens": [
+    [
+     "LIT",
+     "are"
+    ],
+    [
+     "TOKEN",
+     33
+    ],
+    [
+     "WORD",
+     16
+    ],
+    [
+     "TOKEN",
+     2
+    ]
+   ],
+   "steps": 5
+  },
+  {
+   "index": 27,
+   "offset": 225,
+   "tokens": [
+    [
+     "LIT",
+     "are"
+    ],
+    [
+     "WORD",
+     38
+    ],
+    [
+     "WORD",
+     16
+    ],
+    [
+     "TOKEN",
+     2
+    ]
+   ],
+   "steps": 5
+  },
+  {
+   "index": 28,
+   "offset": 235,
+   "tokens": [
+    [
+     "TOKEN",
+     11
+    ],
+    [
+     "MACRO",
+     26
+    ],
+    [
+     "LIT",
+     "are"
+    ],
+    [
+     "TOKEN",
+     33
+    ],
+    [
+     "WORD",
+     16
+    ],
+    [
+     "TOKEN",
+     2
+    ],
+    [
+     "TOKEN",
+     11
+    ]
+   ],
+   "steps": 9
+  },
+  {
+   "index": 29,
+   "offset": 240,
+   "tokens": [
+    [
+     "TOKEN",
+     11
+    ],
+    [
+     "MACRO",
+     27
+    ],
+    [
+     "LIT",
+     "are"
+    ],
+    [
+     "WORD",
+     38
+    ],
+    [
+     "WORD",
+     16
+    ],
+    [
+     "TOKEN",
+     2
+    ],
+    [
+     "TOKEN",
+     11
+    ]
+   ],
+   "steps": 9
+  },
+  {
+   "index": 30,
+   "offset": 245,
+   "tokens": [
+    [
+     "MACRO",
+     25
+    ],
+    [
+     "WORD",
+     44
+    ],
+    [
+     "WORD",
+     45
+    ],
+    [
+     "WORD",
+     38
+    ],
+    [
+     "WORD",
+     43
+    ],
+    [
+     "TOKEN",
+     2
+    ]
+   ],
+   "steps": 8
+  },
+  {
+   "index": 31,
+   "offset": 249,
+   "tokens": [
+    [
+     "MACRO",
+     25
+    ],
+    [
+     "WORD",
+     44
+    ],
+    [
+     "WORD",
+     45
+    ],
+    [
+     "WORD",
+     38
+    ],
+    [
+     "WORD",
+     43
+    ],
+    [
+     "TOKEN",
+     0
+    ],
+    [
+     "WORD",
+     13
+    ],
+    [
+     "LIT",
+     "or"
+    ],
+    [
+     "WORD",
+     13
+    ],
+    [
+     "TOKEN",
+     2
+    ]
+   ],
+   "steps": 12
+  },
+  {
+   "index": 32,
+   "offset": 260,
+   "tokens": [
+    [
+     "MACRO",
+     25
+    ],
+    [
+     "WORD",
+     44
+    ],
+    [
+     "WORD",
+     45
+    ],
+    [
+     "WORD",
+     38
+    ],
+    [
+     "WORD",
+     43
+    ],
+    [
+     "LIT",
+     ":"
+    ],
+    [
+     "WORD",
+     13
+    ],
+    [
+     "TOKEN",
+     13
+    ],
+    [
+     "WORD",
+     13
+    ],
+    [
+     "TOKEN",
+     13
+    ],
+    [
+     "LIT",
+     "or"
+    ],
+    [
+     "WORD",
+     13
+    ],
+    [
+     "TOKEN",
+     2
+    ]
+   ],
+   "steps": 15
+  },
+  {
+   "index": 33,
+   "offset": 276,
+   "tokens": [
+    [
+     "TOKEN",
+     29
+    ],
+    [
+     "LIT",
+     "phone number"
+    ],
+    [
+     "WORD",
+     37
+    ],
+    [
+     "TOKEN",
+     9
+    ],
+    [
+     "TOKEN",
+     1
+    ]
+   ],
+   "steps": 6
+  },
+  {
+   "index": 34,
+   "offset": 296,
+   "tokens": [
+    [
+     "WORD",
+     37
+    ],
+    [
+     "WORD",
+     40
+    ],
+    [
+     "LIT",
+     "phone number"
+    ],
+    [
+     "TOKEN",
+     9
+    ],
+    [
+     "TOKEN",
+     2
+    ]
+   ],
+   "steps": 6
+  },
+  {
+   "index": 35,
+   "offset": 316,
+   "tokens": [
+    [
+     "LIT",
+     "the"
+    ],
+    [
+     "TOKEN",
+     26
+    ],
+    [
+     "TOKEN",
+     37
+    ],
+    [
+     "WORD",
+     17
+    ],
+    [
+     "TOKEN",
+     30
+    ],
+    [
+     "LIT",
+     "located at"
+    ],
+    [
+     "TOKEN",
+     4
+    ],
+    [
+     "TOKEN",
+     1
+    ]
+   ],
+   "steps": 9
+  },
+  {
+   "index": 36,
+   "offset": 341,
+   "tokens": [
+    [
+     "LIT",
+     "is"
+    ],
+    [
+     "TOKEN",
+     16
+    ],
+    [
+     "MACRO",
+     1
+    ],
+    [
+     "WORD",
+     17
+    ],
+    [
+     "TOKEN",
+     4
+    ],
+    [
+     "TOKEN",
+     2
+    ]
+   ],
+   "steps": 8
+  },
+  {
+   "index": 37,
+   "offset": 349,
+   "tokens": [
+    [
+     "LIT",
+     "is"
+    ],
+    [
+     "TOKEN",
+     25
+    ],
+    [
+     "MACRO",
+     1
+    ],
+    [
+     "WORD",
+     17
+    ],
+    [
+     "TOKEN",
+     4
+    ],
+    [
+     "TOKEN",
+     2
+    ]
+   ],
+   "steps": 8
+  },
+  {
+   "index": 38,
+   "offset": 357,
+   "tokens": [
+    [
+     "MACRO",
+     2
+    ],
+    [
+     "TOKEN",
+     36
+    ],
+    [
+     "WORD",
+     16
+    ],
+    [
+     "TOKEN",
+     23
+    ],
+    [
+     "WORD",
+     37
+    ],
+    [
+     "TOKEN",
+     41
+    ],
+    [
+     "WORD",
+     18
+    ],
+    [
+     "WORD",
+     19
+    ],
+    [
+     "TOKEN",
+     23
+    ],
+    [
+     "WORD",
+     17
+    ],
+    [
+     "TOKEN",
+     4
+    ],
+    [
+     "TOKEN",
+     1
+    ]
+   ],
+   "steps": 14
+  },
+  {
+   "index": 39,
+   "offset": 363,
+   "tokens": [
+    [
+     "TOKEN",
+     16
+    ],
+    [
+     "TOKEN",
+     17
+    ],
+    [
+     "TOKEN",
+     37
+    ],
+    [
+     "WORD",
+     17
+    ],
+    [
+     "TOKEN",
+     22
+    ],
+    [
+     "WORD",
+     17
+    ],
+    [
+     "TOKEN",
+     8
+    ],
+    [
+     "TOKEN",
+     1
+    ]
+   ],
+   "steps": 9
+  },
+  {
+   "index": 40,
+   "offset": 373,
+   "tokens": [
+    [
+     "TOKEN",
+     11
+    ],
+    [
+     "MACRO",
+     12
+    ],
+    [
+     "TOKEN",
+     27
+    ],
+    [
+     "TOKEN",
+     13
+    ],
+    [
+     "WORD",
+     28
+    ],
+    [
+     "TOKEN",
+     34
+    ],
+    [
+     "WORD",
+     31
+    ],
+    [
+     "TOKEN",
+     13
+    ],
+    [
+     "WORD",
+     27
+    ],
+    [
+     "WORD",
+     31
+    ],
+    [
+     "MACRO",
+     4
+    ],
+    [
+     "TOKEN",
+     13
+    ],
+    [
+     "TOKEN",
+     14
+    ],
+    [
+     "WORD",
+     27
+    ],
+    [
+     "WORD",
+     32
+    ],
+    [
+     "TOKEN",
+     37
+    ],
+    [
+     "WORD",
+     17
+    ],
+    [
+     "TOKEN",
+     30
+    ],
+    [
+     "TOKEN",
+     1
+    ],
+    [
+     "TOKEN",
+     11
+    ]
+   ],
+   "steps": 23
+  },
+  {
+   "index": 41,
+   "offset": 378,
+   "tokens": [
+    [
+     "TOKEN",
+     11
+    ],
+    [
+     "MACRO",
+     13
+    ],
+    [
+     "TOKEN",
+     28
+    ],
+    [
+     "TOKEN",
+     13
+    ],
+    [
+     "WORD",
+     28
+    ],
+    [
+     "TOKEN",
+     34
+    ],
+    [
+     "WORD",
+     30
+    ],
+    [
+     "TOKEN",
+     13
+    ],
+    [
+     "WORD",
+     27
+    ],
+    [
+     "WORD",
+     32
+    ],
+    [
+     "MACRO",
+     4
+    ],
+    [
+     "TOKEN",
+     13
+    ],
+    [
+     "TOKEN",
+     14
+    ],
+    [
+     "WORD",
+     27
+    ],
+    [
+     "WORD",
+     32
+    ],
+    [
+     "TOKEN",
+     37
+    ],
+    [
+     "WORD",
+     17
+    ],
+    [
+     "TOKEN",
+     30
+    ],
+    [
+     "TOKEN",
+     1
+    ],
+    [
+     "TOKEN",
+     11
+    ]
+   ],
+   "steps": 23
+  },
+  {
+   "index": 42,
+   "offset": 383,
+   "tokens": [
+    [
+     "TOKEN",
+     11
+    ],
+    [
+     "TOKEN",
+     34
+    ],
+    [
+     "TOKEN",
+     24
+    ],
+    [
+     "TOKEN",
+     1
+    ],
+    [
+     "TOKEN",
+     11
+    ]
+   ],
+   "steps": 6
+  },
+  {
+   "index": 43,
+   "offset": 390,
+   "tokens": [
+    [
+     "WORD",
+     37
+    ],
+    [
+     "WORD",
+     40
+    ],
+    [
+     "TOKEN",
+     10
+    ],
+    [
+     "TOKEN",
+     2
+    ]
+   ],
+   "steps": 5
+  },
+  {
+   "index": 44,
+   "offset": 396,
+   "tokens": [
+    [
+     "TOKEN",
+     31
+    ],
+    [
+     "TOKEN",
+     14
+    ],
+    [
+     "WORD",
+     23
+    ],
+    [
+     "LIT",
+     "cost"
+    ],
+    [
+     "TOKEN",
+     5
+    ],
+    [
+     "TOKEN",
+     1
+    ]
+   ],
+   "steps": 7
+  },
+  {
+   "index": 45,
+   "offset": 409,
+   "tokens": [
+    [
+     "TOKEN",
+     30
+    ],
+    [
+     "LIT",
+     "cost"
+    ],
+    [
+     "TOKEN",
+     5
+    ],
+    [
+     "TOKEN",
+     1
+    ]
+   ],
+   "steps": 5
+  },
+  {
+   "index": 46,
+   "offset": 420,
+   "tokens": [
+    [
+     "TOKEN",
+     11
+    ],
+    [
+     "WORD",
+     21
+    ],
+    [
+     "TOKEN",
+     12
+    ],
+    [
+     "TOKEN",
+     11
+    ],
+    [
+     "WORD",
+     39
+    ],
+    [
+     "TOKEN",
+     40
+    ],
+    [
+     "TOKEN",
+     1
+    ]
+   ],
+   "steps": 8
+  },
+  {
+   "index": 47,
+   "offset": 429,
+   "tokens": [
+    [
+     "TOKEN",
+     35
+    ],
+    [
+     "TOKEN",
+     23
+    ],
+    [
+     "TOKEN",
+     40
+    ],
+    [
+     "TOKEN",
+     13
+    ],
+    [
+     "TOKEN",
+     11
+    ],
+    [
+     "WORD",
+     25
+    ],
+    [
+     "LIT",
+     "it"
+    ],
+    [
+     "TOKEN",
+     12
+    ],
+    [
+     "TOKEN",
+     11
+    ]
+   ],
+   "steps": 10
+  },
+  {
+   "index": 48,
+   "offset": 443,
+   "tokens": [
+    [
+     "TOKEN",
+     21
+    ],
+    [
+     "WORD",
+     42
+    ],
+    [
+     "WORD",
+     41
+    ],
+    [
+     "LIT",
+     ":"
+    ],
+    [
+     "WORD",
+     31
+    ],
+    [
+     "TOKEN",
+     13
+    ],
+    [
+     "WORD",
+     32
+    ],
+    [
+     "TOKEN",
+     13
+    ],
+    [
+     "WORD",
+     32
+    ],
+    [
+     "TOKEN",
+     13
+    ],
+    [
+     "TOKEN",
+     14
+    ],
+    [
+     "WORD",
+     31
+    ],
+    [
+     "TOKEN",
+     1
+    ]
+   ],
+   "steps": 14
+  },
+  {
+   "index": 49,
+   "offset": 460,
+   "tokens": [
+    [
+     "WORD",
+     43
+    ],
+    [
+     "LIT",
+     "one:"
+    ],
+    [
+     "WORD",
+     23
+    ],
+    [
+     "TOKEN",
+     13
+    ],
+    [
+     "WORD",
+     13
+    ],
+    [
+     "TOKEN",
+     13
+    ],
+    [
+     "TOKEN",
+     14
+    ],
+    [
+     "WORD",
+     32
+    ],
+    [
+     "TOKEN",
+     1
+    ]
+   ],
+   "steps": 10
+  },
+  {
+   "index": 50,
+   "offset": 476,
+   "tokens": [
+    [
+     "TOKEN",
+     35
+    ],
+    [
+     "TOKEN",
+     15
+    ],
+    [
+     "TOKEN",
+     1
+    ]
+   ],
+   "steps": 4
+  }
+ ]
+}
