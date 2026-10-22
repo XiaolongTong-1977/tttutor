@@ -121,7 +121,8 @@ tttutor/
   invaders.py   — faithful Letter Invaders state machine
   settings.py   — persistent goals, drills, password, learned keys
   ui.py         — curses screens (menu, lessons, tests, reports, game, help)
-  __main__.py   — CLI entry
+  cli.py        — shared CLI (--check/--init/--reset/--version/…)
+  __main__.py   — `python -m tttutor` entry (delegates to cli.py)
 ```
 
 ## Cross-platform

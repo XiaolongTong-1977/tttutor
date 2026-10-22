@@ -1,9 +1,22 @@
 # tttutor runtime dependencies
 # ==============================
-# The program itself is pure Python 3.10+ standard library (curses, json,
-# asyncio, ...).  There are NO third-party runtime dependencies on Linux
-# or macOS.
+# tttutor is pure Python 3.10+ standard library (curses, json, asyncio, ...).
+# It installs and runs with ZERO third-party packages on Linux, macOS, WSL,
+# containers and SSH/headless environments — nothing in this file is
+# fetched on those platforms (the environment marker skips it for them).
 #
-# The single line below only applies on native Windows, where the stdlib
-# does not ship `curses`.  It is skipped automatically on Linux/macOS.
-windows-curses; platform_system == "Windows"
+# Per platform:
+#   Linux / WSL / containers — no pip dependency at all. Requires a Python
+#       build that includes curses (true for every mainstream distro and
+#       conda env; on truly minimal images install the OS package first,
+#       e.g. `apt-get install python3-curses` / `dnf install python3-curses`).
+#   macOS                    — no pip dependency; curses ships with the OS.
+#   Windows native           — the single line below supplies the curses
+#       module that CPython does not ship on Windows. Auto-skipped on
+#       every other platform, so the same file works everywhere.
+#
+# No version upper bounds on purpose: any newer release stays installable
+# in offline mirrors, conda envs, and air-gapped setups with an old index.
+#
+# Python >= 3.10 required (see pyproject.toml: requires-python).
+windows-curses>=2.2.0; platform_system == "Windows"

@@ -112,7 +112,8 @@ tttutor/
   invaders.py   —— 忠实复刻的 Letter Invaders 状态机
   settings.py   —— 持久化的目标、练习数、密码、已学键位
   ui.py         —— curses 界面（菜单、课程、测验、报表、游戏、帮助）
-  __main__.py   —— CLI 入口
+  cli.py        —— 共享 CLI（--check/--init/--reset/--version 等）
+  __main__.py   —— `python -m tttutor` 入口（委托至 cli.py）
 ```
 
 ## 跨平台
