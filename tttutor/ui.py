@@ -60,6 +60,20 @@ def _init_colors(win=None) -> None:
     if not curses.has_colors():
         return
     curses.start_color()
+    # Redefine palette "blue" to the exact CGA blue (#0000AA) that TT.EXE's
+    # text mode uses. COLOR_BLUE is only a palette INDEX — its RGB value is
+    # chosen by the terminal theme, so on dark/black-themed terminals the
+    # background could render navy, purplish or grayish instead of the
+    # original CGA blue. init_color() fixes the RGB on any terminal that
+    # supports palette changes (xterm, kitty, foot, wezterm, tmux 3.x,
+    # Windows Terminal, Linux console, ...). ncurses restores the original
+    # palette on endwin(). On terminals that cannot change colors we keep
+    # the theme's blue — the best available approximation.
+    if curses.can_change_color():
+        try:
+            curses.init_color(curses.COLOR_BLUE, 0, 0, 667)  # #0000AA
+        except curses.error:
+            pass
     # We do NOT use_default_colors() — we want the explicit blue background.
     # Background is the same value (1, blue) for every pair; foregrounds are
     # 8-color values brightened with the A_BOLD attribute below.
